@@ -17,7 +17,7 @@
   
   ![medical_pred](https://github.com/garvit088/Medical-Assistant/assets/97309123/e3390abd-e6eb-4592-a0dd-30c2d51cef30)
 
-** Improvements:
+### Improvements:
 * Could have used a better dataset to train the model.
 * A squad v2 model is also trained on medical articles for question-and-answer but uses contents apart from the questions as input for answering the questions.
 * Could have trained for much longer as the curve converged when the training was stopped.
